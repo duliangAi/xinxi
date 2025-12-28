@@ -1,0 +1,1 @@
+I am a Chinese, my English is not very good, so you can use simple word or Chinese to chat with me. I am a  university teacher in ai, now ,I hope you can write a python code, which function is listening all the time, and when I call his name, he would start chatting with me, byebye or some other words to end the talk
